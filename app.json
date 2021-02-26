@@ -1,0 +1,9 @@
+{
+  "name": "Teams Apps using Node.js",
+  "description": "TrendingNews Teams Apps",
+  "repository": "https://github.com/ERS-HCL/teamsapp",
+  "logo": "https://cdn.rawgit.com/heroku/node-js-getting-started/main/public/node.svg",
+  "keywords": ["node", "reactjs","msteams", "heroku"],
+  "image": "heroku/nodejs"
+}
+
